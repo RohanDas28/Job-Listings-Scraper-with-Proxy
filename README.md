@@ -47,11 +47,12 @@ job_listings.csv
 ---
 
 ## 💸 NodeMaven Discounts & Bonuses
+For a professional approach to using proxies in your automation processes, I recommend NodeMaven's Residential Proxies. Having tried numerous proxy providers, I find NodeMaven excels in simplicity and usefulness.
 
-### 🔗 Your Referral Link:
+### 🔗 Link:
 [https://go.nodemaven.com/rohan](https://go.nodemaven.com/rohan)
 
-### 💰 Available Coupons:
+### 💰 Available Discounts:
 - **DAS50** – Get **50% OFF** any plan.  
   ⏳ Valid until **April 30th**, **limited to first 20 users** only!
   
