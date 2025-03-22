@@ -1,4 +1,4 @@
-# 🕵️‍♂️Job Listings Scraper with NodeMaven Proxy
+# 🕵️‍♂️ Proxy Scraper Project — Job Listings Scraper with NodeMaven Proxy
 
 ## 📌 Overview
 This Python project scrapes **job listings** from **Indeed.com** using a **NodeMaven proxy** for anonymity and IP rotation. It rotates **User-Agent headers** to mimic real user behavior and avoid detection.
@@ -46,8 +46,26 @@ job_listings.csv
 
 ---
 
+## 💸 NodeMaven Discounts & Bonuses
+
+### 🔗 Your Referral Link:
+[https://go.nodemaven.com/rohan](https://go.nodemaven.com/rohan)
+
+### 💰 Available Coupons:
+- **DAS50** – Get **50% OFF** any plan.  
+  ⏳ Valid until **April 30th**, **limited to first 20 users** only!
+  
+- **DS80** – Get **+80% more data** with any plan purchase.  
+  Buy 5GB, receive **9GB** at the same price.  
+  🗓️ Valid until **September 2025**
+
+
+---
+
 ## 🛡️ Disclaimer
 This tool is for **educational purposes only**. Please ensure compliance with the **Terms of Service** of any website you scrape. Use proxies and scraping responsibly.
+
+---
 
 
 ## 📬 Contact
